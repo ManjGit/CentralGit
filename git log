@@ -1,0 +1,54 @@
+[33mcommit b027f465533b46332b30f2669e65f71a71b35df8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bunty <bunty@gmail.com>
+Date:   Mon Nov 11 21:18:02 2024 +0000
+
+    Testing git conflict
+
+[33mcommit 58bd6f97d58121af897d1571ff6786f4c4c21ee5[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 8f7af7b 811fe3f
+Author: Bunty <bunty@gmail.com>
+Date:   Mon Nov 11 21:04:59 2024 +0000
+
+    Merge branch 'branch1'
+
+[33mcommit 811fe3fbe41779abed24d03b54b17e09a3b59e79[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: Bunty <bunty@gmail.com>
+Date:   Mon Nov 11 20:50:40 2024 +0000
+
+    second commit from branch1
+
+[33mcommit 8f7af7bdd20889c58825e1a4668eba779badd27c[m
+Author: Bunty <bunty@gmail.com>
+Date:   Mon Nov 11 20:49:00 2024 +0000
+
+    adding second file
+
+[33mcommit 456ab1edd5a8045c600abe4d6c825889be80cd2c[m
+Author: Bunty <bunty@gmail.com>
+Date:   Mon Nov 11 20:44:20 2024 +0000
+
+    branch1 first commit
+
+[33mcommit 3bf2ff42bb7c63ad9baff1a469910c73c4660c92[m
+Author: Bunty <bunty@gmail.com>
+Date:   Tue Nov 5 20:01:01 2024 +0000
+
+    commit from singapore
+
+[33mcommit 52a3d3e80a44e614243818ad707afad5ee323df0[m
+Author: Manjeet <manjeet@gmail.com>
+Date:   Tue Nov 5 18:04:22 2024 +0000
+
+    Updated work
+
+[33mcommit 462feff79d8d0662551e61ae92d06ea81fdfda31[m
+Author: Manjeet <manjeet@gmail.com>
+Date:   Fri Oct 25 18:56:53 2024 +0000
+
+    Modified the file
+
+[33mcommit 7ecdfb950f007ab2fb65119917048f4f156917d9[m
+Author: Manjeet <manjeet@gmail.com>
+Date:   Fri Oct 25 17:52:49 2024 +0000
+
+    My first commit from mumbai
